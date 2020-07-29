@@ -17,3 +17,10 @@ So, why use Julia?<br>
 </ul> </p>
 
 <h1>How to install Julia?</h1>
+
+<p><ol>
+<li>Go to <https://julialang.org/>, click download and choose your OS installation.</li>
+
+<a src="mages/Julialang.gif" alt="Julialang.org">
+
+</ol></p>
