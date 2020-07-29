@@ -23,8 +23,9 @@ So, why use Julia?<br>
 <img src="images/Julialang.gif" alt="Julialang.org">
 <li>Follow the installation instructions. The installation will automatically add Julia to your environment. You can check your installation by open command prompt and type Julia, if successful you can run Julia as below.</li>
 <img src="images/Command.gif" alt="Command prompt">
-<li>Add additional package for Machine Learning like CSV, DataFrames, and ScikitLearn. You can add package by type <strong><em>"]"</strong></em> in julia terminal and type <strong><em>"add your_package_name"</strong></em>.</li>
+<li>Install additional package for Machine Learning like CSV, DataFrames, and ScikitLearn. You can install additional package by type <strong>"]"</strong> in julia terminal and type <strong><em>"add your_package_name"</strong></em>.</li>
 <img src="images/Package.gif" alt="Add package">
+<li>To integrate with jupyter notebook, you must install package IJulia.</li>
 </ol></p>
 <h4 style="background-color:powderblue;"><center>Your Julia is ready to use!</center></h4>
 
