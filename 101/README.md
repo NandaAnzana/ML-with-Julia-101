@@ -4,6 +4,6 @@
 <br>
 First of all, the dataset we use is iris dataset from <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data" title="Iris-Dataset">ICS</a>. Then we gonna do some simple EDA, and plots some graph. Here's some picture for you.</p>
 
-<img src="/images/ML101-1.png" alt="Scatter Plot">
+<img src="images/ML101-1.png" alt="Scatter Plot">
 
-<img src="/images/ML101-2.png" alt="Random Forest">
+<img src="images/ML101-2.png" alt="Random Forest">
