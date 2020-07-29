@@ -20,7 +20,5 @@ So, why use Julia?<br>
 
 <p><ol>
 <li>Go to <https://julialang.org/>, click download and choose your OS installation.</li>
-
 <img src="images/Julialang.gif" alt="Julialang.org">
-
 </ol></p>
